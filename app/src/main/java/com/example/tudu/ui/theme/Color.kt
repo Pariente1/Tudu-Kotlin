@@ -2,6 +2,9 @@ package com.example.tudu.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+val PrimaryTudu = Color(0xFF3F51B5) // El azul de tu diseño
+val White = Color(0xFFFFFFFF)
+
 val Purple80 = Color(0xFFD0BCFF)
 val PurpleGrey80 = Color(0xFFCCC2DC)
 val Pink80 = Color(0xFFEFB8C8)
